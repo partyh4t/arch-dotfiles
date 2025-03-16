@@ -1,0 +1,23 @@
+## My kitty conf
+
+# Theme
+include ~/.cache/wal/colors-kitty.conf
+# Fonts
+font_family Fira Code
+bond_font auto
+italic_font auto
+bold_italic_font auto
+font_size 11
+
+# Windows
+window_margin_width 14
+background_opacity 0.95
+
+enable_audio_bell no
+allow_remote_control yes
+
+
+# BEGIN_KITTY_THEME
+# Chalk
+include current-theme.conf
+# END_KITTY_THEME
