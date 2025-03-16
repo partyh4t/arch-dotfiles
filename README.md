@@ -1,2 +1,1 @@
-# arch-dotfiles
-My Arch + Hyprland Dotfiles.
+# Arch + Hyprland Dotfiles
